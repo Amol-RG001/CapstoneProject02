@@ -1,1 +1,1 @@
-# CapstoneProject02
+# LibraryManagementSoln
